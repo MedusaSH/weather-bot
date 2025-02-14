@@ -10,7 +10,7 @@ import asyncio
 
 
 TELEGRAM_TOKEN = ""
-OPENWEATHER_API_KEY = ""
+KEY = ""
 
 
 app = Application.builder().token(TELEGRAM_TOKEN).build()
@@ -25,7 +25,7 @@ conn.commit()
 
 
 def get_weather(city):
-    url = f"http://api.weatherapi.com/v1/current.json?key=249c9ac2a03144e2a17214302251402&q={city}&lang=fr"
+    url = f"http://api.weatherapi.com/v1/current.json?key={KEY}&q={city}&lang=fr"
     response = requests.get(url)
     data = response.json()
 
