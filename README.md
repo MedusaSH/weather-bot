@@ -56,7 +56,7 @@ Le bot est maintenant actif et attend tes commandes ! 🚀
 ---
 
 ## 📸 **Aperçu**
-![Weather Bot Demo](https://user-images.githubusercontent.com/your-image.png)
+![Weather Bot Demo](https://media.discordapp.net/attachments/1299118707305484389/1340087894013907089/image.png?ex=67b1159b&is=67afc41b&hm=9186c7d8c226c7e1da1b83bcbe89c092e866fbf29f58fbf9f66d79fbd0921bcd&=&format=webp&quality=lossless)
 
 ---
 
