@@ -82,7 +82,7 @@ Ce projet est sous licence **MIT**. Tu es libre de le modifier et de le distribu
 
 ## 📩 **Contact**
 **Créateur** : [MedusaSH](https://github.com/MedusaSH)  
-💬 Contacte-moi sur **Telegram** : [@MedusaSH](https://t.me/MedusaSH)
+💬 Contacte-moi sur **Telegram** : [@MedusaSH](https://t.me/yfork13)
 
 ---
 
